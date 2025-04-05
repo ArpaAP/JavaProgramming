@@ -10,6 +10,9 @@ import java.util.Scanner;
 public class EmployeeApp {
     static final int MAX_NUM = 4;
 
+    /**
+     * 메뉴 리스트 출력하는 함수
+     */
     public static void printMenu() {
         System.out.println("=".repeat(56));
         System.out.println("1. Display all employees' information (Staff, Engineer)");
@@ -21,11 +24,17 @@ public class EmployeeApp {
         System.out.println("=".repeat(56));
     }
 
+    /**
+     * 모든 직원 정보를 출력하는 함수
+     */
     public static void displayEmployeeInfo(Staff[] staffs, Engineer[] engineers) {
         displayStaffInfo(staffs);
         displayEngineerInfo(engineers);
     }
 
+    /**
+     * 직원 정보를 출력하는 함수
+     */
     public static void displayStaffInfo(Staff[] staffs) {
         System.out.println("[Staff]");
         System.out.printf("%16s %4s %16s %8s %16s\n", "Name", "Age", "Position", "Salary", "Annual Salary");
@@ -36,6 +45,9 @@ public class EmployeeApp {
         System.out.println("-".repeat(64));
     }
 
+    /**
+     * 엔지니어 정보를 출력하는 함수
+     */
     public static void displayEngineerInfo(Engineer[] engineers) {
         System.out.println("[Engineer]");
         System.out.printf("%16s %4s %16s %16s %8s %16s\n", "Name", "Age", "Position", "Overtime Pay", "Salary", "Annual Salary");
@@ -46,6 +58,9 @@ public class EmployeeApp {
         System.out.println("-".repeat(81));
     }
 
+    /**
+     * 이름, 월급, 연봉 출력하는 함수
+     */
     public static void displayNameSalary(Staff[] staffs, Engineer[] engineers) {
         System.out.println("[Staff]");
         System.out.printf("%16s %8s %16s\n", "Name", "Salary", "Annual Salary");
@@ -64,6 +79,9 @@ public class EmployeeApp {
         System.out.println("-".repeat(42));
     }
 
+    /**
+     * 이름, 직급 출력하는 함수
+     */
     public static void displayNamePosition(Staff[] staffs, Engineer[] engineers) {
         System.out.println("[Staff]");
         System.out.printf("%16s %21s\n", "Name", "Position");
@@ -82,6 +100,10 @@ public class EmployeeApp {
         System.out.println("-".repeat(38));
     }
 
+    /**
+     * 직원 데이터 초기화하는 함수
+     * @return 직원 데이터 배열
+     */
     public static Staff[] initStaffData() {
         Staff[] staffs = new Staff[MAX_NUM];
 
@@ -112,6 +134,10 @@ public class EmployeeApp {
         return staffs;
     }
 
+    /**
+     * 엔지니어 데이터 초기화하는 함수
+     * @return 엔지니어 데이터 배열
+     */
     public static Engineer[] initEngineerData() {
         Engineer[] engineers = new Engineer[MAX_NUM];
 
@@ -125,7 +151,7 @@ public class EmployeeApp {
         engineers[0].setSalary(350);
         engineers[0].setOvertimeDay(15);
 
-        engineers[1].setName("Lisa", "Barens");
+        engineers[1].setName("Lisa", "Barnes");
         engineers[1].setAge(37);
         engineers[1].setPosition("Senior Engineer");
         engineers[1].setSalary(580);
