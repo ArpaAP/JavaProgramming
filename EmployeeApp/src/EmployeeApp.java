@@ -164,23 +164,12 @@ public class EmployeeApp {
             }
 
             switch (num) {
-                case 1:
-                    displayEmployeeInfo(staffs, engineers);
-                    break;
-                case 2:
-                    displayStaffInfo(staffs);
-                    break;
-                case 3:
-                    displayEngineerInfo(engineers);
-                    break;
-                case 4:
-                    displayNameSalary(staffs, engineers);
-                    break;
-                case 5:
-                    displayNamePosition(staffs, engineers);
-                    break;
-                default:
-                    System.out.println("Wrong Input. Try again!");
+                case 1 -> displayEmployeeInfo(staffs, engineers);
+                case 2 -> displayStaffInfo(staffs);
+                case 3 -> displayEngineerInfo(engineers);
+                case 4 -> displayNameSalary(staffs, engineers);
+                case 5 -> displayNamePosition(staffs, engineers);
+                default -> System.out.println("Wrong Input. Try again!");
             }
         }
 
