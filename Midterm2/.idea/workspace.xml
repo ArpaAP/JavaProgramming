@@ -5,20 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1996ae40-0801-4c44-9589-4fbc678c220f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../Midterm1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm1/Midterm1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringUtilApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/ReservationSystemApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/src/AirlineSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/src/BusSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/src/ReservationSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,31 +31,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2vtdWcTVLn0KsvGkiGXLnhvNQW1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/arpaap/Documents/GitHub/JavaProgramming/Midterm2/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.StringUtilApp.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/arpaap/Documents/GitHub/JavaProgramming/Midterm2/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.StringUtilApp.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,6 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1744968338273</updated>
       <workItem from="1744968339255" duration="4427000" />
+      <workItem from="1745125887446" duration="749000" />
+      <workItem from="1745256564406" duration="25000" />
     </task>
     <servers />
   </component>
