@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1996ae40-0801-4c44-9589-4fbc678c220f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/ReservationSystemApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/src/AirlineSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/src/BusSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReservationSystemApp/src/ReservationSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1996ae40-0801-4c44-9589-4fbc678c220f" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +63,7 @@
       <workItem from="1744968339255" duration="4427000" />
       <workItem from="1745125887446" duration="749000" />
       <workItem from="1745256564406" duration="25000" />
+      <workItem from="1745555318821" duration="29000" />
     </task>
     <servers />
   </component>
