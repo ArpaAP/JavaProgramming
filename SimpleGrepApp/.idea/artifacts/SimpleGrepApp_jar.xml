@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleGrepApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleGrepApp_jar</output-path>
+    <root id="archive" name="SimpleGrepApp.jar">
+      <element id="module-output" name="SimpleGrepApp" />
+    </root>
+  </artifact>
+</component>

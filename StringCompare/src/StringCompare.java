@@ -1,4 +1,4 @@
-public class Main {
+public class StringCompare {
     public static void main(String[] args) {
         String str1 = "C++";
         String str2 = "Java";
